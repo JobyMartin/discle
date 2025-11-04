@@ -1,0 +1,8666 @@
+[
+  {
+    "name": "#1 Driver",
+    "brand": "Lightning",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "#1 Flyer",
+    "brand": "Lightning",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "#1 Helix",
+    "brand": "Lightning",
+    "speed": "8",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "#1 Hookshot",
+    "brand": "Lightning",
+    "speed": "6",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "#1 Hyzer",
+    "brand": "Lightning",
+    "speed": "7",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "(Great Horned) Owl",
+    "brand": "Daredevil Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "<- Tilt",
+    "brand": "Discmania",
+    "speed": "9",
+    "glide": "1",
+    "turn": "1",
+    "fade": "6"
+  },
+  {
+    "name": "A1",
+    "brand": "Prodigy",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "A2",
+    "brand": "Prodigy",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "A3",
+    "brand": "Prodigy",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "A4",
+    "brand": "Prodigy",
+    "speed": "4",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "A5",
+    "brand": "Prodigy",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "APX",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "2",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Abyss",
+    "brand": "Storm",
+    "speed": "8",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Addax",
+    "brand": "Wild Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Addax Reborn",
+    "brand": "Wild Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Adder",
+    "brand": "Westside Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Aero",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "6",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Aftermath",
+    "brand": "Legacy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "3"
+  },
+  {
+    "name": "Aftershock",
+    "brand": "DGA",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Agent",
+    "brand": "Dynamic Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Ahti",
+    "brand": "Westside Discs",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Air Strike",
+    "brand": "Gateway",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Albatross",
+    "brand": "Daredevil Discs",
+    "speed": "14",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "3"
+  },
+  {
+    "name": "Alien",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Alpaca",
+    "brand": "Infinite Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Alpas",
+    "brand": "Other",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Alpha",
+    "brand": "Mint Discs",
+    "speed": "8",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Alter",
+    "brand": "Thought Space Athletics",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Alva",
+    "brand": "Kastaplast",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Amphibian",
+    "brand": "Gateway",
+    "speed": "10",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "2"
+  },
+  {
+    "name": "Amulet",
+    "brand": "Prodiscus",
+    "speed": "5",
+    "glide": "4",
+    "turn": "1",
+    "fade": "3"
+  },
+  {
+    "name": "Anax",
+    "brand": "Discraft",
+    "speed": "10",
+    "glide": "6",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Anchor",
+    "brand": "Latitude 64",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Andro C",
+    "brand": "Other",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Andro C (Retooled)",
+    "brand": "Other",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Angler",
+    "brand": "Wild Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Animal",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "1",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Animus",
+    "brand": "Thought Space Athletics",
+    "speed": "11",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Anubis",
+    "brand": "Infinite Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Anvil",
+    "brand": "Westside Discs",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Apache (OOP)",
+    "brand": "Gateway",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Apache (retooled)",
+    "brand": "Gateway",
+    "speed": "10",
+    "glide": "6",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Ape",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Apex",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Apollo",
+    "brand": "Other",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Aquarius",
+    "brand": "Millennium",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Arch",
+    "brand": "Vibram",
+    "speed": "8",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Archangel",
+    "brand": "Innova",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Archer",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Archive",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Archon",
+    "brand": "Innova",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Aries",
+    "brand": "Millennium",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "2"
+  },
+  {
+    "name": "Armadillo",
+    "brand": "Lone Star Discs",
+    "speed": "1",
+    "glide": "2",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Arowana",
+    "brand": "Elevation Disc Golf",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Arrowhead",
+    "brand": "Sacred Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Artemis",
+    "brand": "Lone Star Discs",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Ascend",
+    "brand": "Streamline",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "0.5"
+  },
+  {
+    "name": "Assassin",
+    "brand": "Gateway",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-1.5",
+    "fade": "1"
+  },
+  {
+    "name": "Astra",
+    "brand": "Millennium",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Astra-X",
+    "brand": "Millennium",
+    "speed": "11",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Astronaut",
+    "brand": "Discmania",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Athena",
+    "brand": "Discraft",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Atlas",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Atom",
+    "brand": "MVP",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-0.5",
+    "fade": "0.5"
+  },
+  {
+    "name": "Aura",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Aurora/QMS",
+    "brand": "Millennium",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Avalanche",
+    "brand": "DGA",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Avatar",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Avenger",
+    "brand": "Discraft",
+    "speed": "10",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Avenger SS",
+    "brand": "Discraft",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Aviar",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Aviar Classic",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Aviar Driver",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Aviar3",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "AviarX3",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Axe",
+    "brand": "Viking",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Aztec",
+    "brand": "Infinite Discs",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "BB6",
+    "brand": "Lone Star Discs",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "BZ Chainsaw",
+    "brand": "Gateway",
+    "speed": "3",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Badger",
+    "brand": "Legacy",
+    "speed": "6",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Balance",
+    "brand": "Axiom Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Ballista",
+    "brand": "Latitude 64",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Ballista Pro",
+    "brand": "Latitude 64",
+    "speed": "14",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Bandit",
+    "brand": "Legacy",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Banger GT",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Banshee",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Banzai",
+    "brand": "DGA",
+    "speed": "8",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Baobab",
+    "brand": "Above Ground Level",
+    "speed": "4",
+    "glide": "0",
+    "turn": "1",
+    "fade": "3"
+  },
+  {
+    "name": "Barbarian",
+    "brand": "Viking",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Bard",
+    "brand": "Westside Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Bash",
+    "brand": "Lone Star Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Bayonet",
+    "brand": "Lone Star Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Bear",
+    "brand": "Westside Discs",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-0.5",
+    "fade": "2.5"
+  },
+  {
+    "name": "Bearkat",
+    "brand": "Lone Star Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Beast",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Beaver",
+    "brand": "Daredevil Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Beech",
+    "brand": "Above Ground Level",
+    "speed": "5",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Beetle",
+    "brand": "Latitude 64",
+    "speed": "1",
+    "glide": "7",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Belleair",
+    "brand": "Climo Disc Golf",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Benny",
+    "brand": "Lone Star Discs",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Berg",
+    "brand": "Kastaplast",
+    "speed": "1",
+    "glide": "1",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Berg X",
+    "brand": "Kastaplast",
+    "speed": "1",
+    "glide": "1",
+    "turn": "1",
+    "fade": "2"
+  },
+  {
+    "name": "Berry",
+    "brand": "Clash Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Berserker",
+    "brand": "Viking",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Bi",
+    "brand": "Yikun",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Big Horn",
+    "brand": "Daredevil Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "BigFoot",
+    "brand": "Daredevil Discs",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Binx, Newcomer",
+    "brand": "Elevation Disc Golf",
+    "speed": "8",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Binx, ecoFlex",
+    "brand": "Elevation Disc Golf",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Blade",
+    "brand": "Gateway",
+    "speed": "9",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Blaze",
+    "brand": "Gateway",
+    "speed": "7",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Blowfly",
+    "brand": "DGA",
+    "speed": "2",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Bluebonnet",
+    "brand": "Lone Star Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Boatman",
+    "brand": "Westside Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Bobcat",
+    "brand": "Mint Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Bohrium",
+    "brand": "Løft Discs",
+    "speed": "14",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Bolt",
+    "brand": "Latitude 64",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "3"
+  },
+  {
+    "name": "Boss",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Bounty",
+    "brand": "Dynamic Discs",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "0.5"
+  },
+  {
+    "name": "Bowie",
+    "brand": "Lone Star Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Brave",
+    "brand": "Latitude 64",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Brazos",
+    "brand": "Lone Star Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Breaker",
+    "brand": "DGA",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Breakout",
+    "brand": "Dynamic Discs",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1.5"
+  },
+  {
+    "name": "Brontosaurus",
+    "brand": "Other",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "0.5"
+  },
+  {
+    "name": "Buffalo",
+    "brand": "Daredevil Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "5"
+  },
+  {
+    "name": "Bull Snake",
+    "brand": "Lone Star Discs",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Bullet",
+    "brand": "Mint Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Bullfrog",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "1",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Butter",
+    "brand": "Clash Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Buzzz",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Buzzz GT",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Buzzz OS",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Buzzz SS",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "CD (OOP)",
+    "brand": "Discmania",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "CD1",
+    "brand": "Discmania",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "CD3 (OOP)",
+    "brand": "Discmania",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "CHING Juju",
+    "brand": "Stokely Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Cactus",
+    "brand": "Lone Star Discs",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Caiman",
+    "brand": "Innova",
+    "speed": "5.5",
+    "glide": "2",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Caltrop",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Candy",
+    "brand": "Clash Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Cannon",
+    "brand": "Legacy",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "3"
+  },
+  {
+    "name": "Canyon",
+    "brand": "Trash Panda",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Captain",
+    "brand": "Dynamic Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Captain's Raptor",
+    "brand": "Discraft",
+    "speed": "9",
+    "glide": "3",
+    "turn": "1",
+    "fade": "4"
+  },
+  {
+    "name": "Captain's Thrasher",
+    "brand": "Discraft",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Cardinal",
+    "brand": "Stokely Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Caribou",
+    "brand": "Daredevil Discs",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Catalyst",
+    "brand": "MVP",
+    "speed": "13",
+    "glide": "5.5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Catapult",
+    "brand": "Westside Discs",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Cedar",
+    "brand": "Above Ground Level",
+    "speed": "11",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Centurion",
+    "brand": "Infinite Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1.5"
+  },
+  {
+    "name": "Challenger",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Challenger OS",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Challenger SS",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Champ",
+    "brand": "Climo Disc Golf",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Charger",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Chariot",
+    "brand": "Infinite Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Cheetah",
+    "brand": "Innova",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Cherry",
+    "brand": "Clash Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Chicane",
+    "brand": "Finish Line",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Chief",
+    "brand": "Gateway",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Chief OS",
+    "brand": "Gateway",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Chupacabra",
+    "brand": "Lone Star Discs",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Cicada",
+    "brand": "Discraft",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Cigarra",
+    "brand": "Discraft",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Cinnamon",
+    "brand": "Clash Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Classic Roc",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Claws",
+    "brand": "Yikun",
+    "speed": "1",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Claymore",
+    "brand": "Latitude 64",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Cloudbreaker",
+    "brand": "Discmania",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Clozer",
+    "brand": "Legacy",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Clutch",
+    "brand": "Legacy",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Coalesce",
+    "brand": "Thought Space Athletics",
+    "speed": "9",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Cobra",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Cohort",
+    "brand": "Infinite Discs",
+    "speed": "3.5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Colossus",
+    "brand": "Innova",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Colt",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Comet",
+    "brand": "Discraft",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Compass",
+    "brand": "Latitude 64",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Conqueror",
+    "brand": "Infinite Discs",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Construct",
+    "brand": "Thought Space Athletics",
+    "speed": "10",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Convict",
+    "brand": "Dynamic Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Cookie",
+    "brand": "Clash Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Copperhead",
+    "brand": "Lone Star Discs",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Core",
+    "brand": "Latitude 64",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "1"
+  },
+  {
+    "name": "Corvette",
+    "brand": "Innova",
+    "speed": "14",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Cosmos",
+    "brand": "Viking",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Coyote",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Crag",
+    "brand": "Vibram",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Crank",
+    "brand": "Discraft",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Crank SS",
+    "brand": "Discraft",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Crave",
+    "brand": "Axiom Discs",
+    "speed": "6.5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Credo",
+    "brand": "Crosslap",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Criminal",
+    "brand": "Dynamic Discs",
+    "speed": "10",
+    "glide": "3",
+    "turn": "1",
+    "fade": "4"
+  },
+  {
+    "name": "Cro",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Croc",
+    "brand": "Innova",
+    "speed": "5.5",
+    "glide": "2",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "Crockett",
+    "brand": "Lone Star Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Crossbow",
+    "brand": "Yikun",
+    "speed": "4",
+    "glide": "1.5",
+    "turn": "0.5",
+    "fade": "4"
+  },
+  {
+    "name": "Crown",
+    "brand": "Westside Discs",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Crush",
+    "brand": "Discraft",
+    "speed": "11",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Crux",
+    "brand": "Thought Space Athletics",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Culprit",
+    "brand": "Dynamic Discs",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Culverin",
+    "brand": "Latitude 64",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Curl",
+    "brand": "Lone Star Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Cutlass",
+    "brand": "Latitude 64",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Cyclone",
+    "brand": "Discraft",
+    "speed": "7",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Cypress",
+    "brand": "Other",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Czar",
+    "brand": "Infinite Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "D Model OS",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "D Model S",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "6",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "D Model US",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "D1",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "D1 Max",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "D2",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "D2 Max",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "D2 Pro",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "D2 Signature (Falcor)",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2.5"
+  },
+  {
+    "name": "D3",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "D3 Max",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "D4",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "D4 Max",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "D6",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "DD",
+    "brand": "Discmania",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "DD-13 Starling",
+    "brand": "Disctroyer",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "DD1",
+    "brand": "Discmania",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "DD2 (OOP)",
+    "brand": "Discmania",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "DD3",
+    "brand": "Discmania",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "DDx (OOP)",
+    "brand": "Discmania",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Da'E",
+    "brand": "Yikun",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Daedalus",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Dagger",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Dart",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Daytona",
+    "brand": "Finish Line",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Defender",
+    "brand": "Dynamic Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Deflector",
+    "brand": "MVP",
+    "speed": "5",
+    "glide": "3.5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Defy",
+    "brand": "Axiom Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Delirium",
+    "brand": "Axiom Discs",
+    "speed": "14.5",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Demon",
+    "brand": "Gateway",
+    "speed": "6",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Deputy",
+    "brand": "Dynamic Discs",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-1.5",
+    "fade": "0"
+  },
+  {
+    "name": "Desperado",
+    "brand": "Lone Star Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Destiny",
+    "brand": "Westside Discs",
+    "speed": "14",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "3"
+  },
+  {
+    "name": "Destroyer",
+    "brand": "Innova",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Detour",
+    "brand": "MVP",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Devil Hawk",
+    "brand": "Gateway",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Diablo",
+    "brand": "Gateway",
+    "speed": "9",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Diamond",
+    "brand": "Latitude 64",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Diamondback",
+    "brand": "Mint Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Dimension",
+    "brand": "MVP",
+    "speed": "14.5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Distortion",
+    "brand": "Prodigy",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Dominator",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Dos X",
+    "brand": "Lone Star Discs",
+    "speed": "8",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Douglas Fir",
+    "brand": "Above Ground Level",
+    "speed": "4",
+    "glide": "3",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Draco",
+    "brand": "Millennium",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Dragon",
+    "brand": "Innova",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Dragonfly",
+    "brand": "AquaFlight",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Dream Weaver",
+    "brand": "Jester Disc Golf",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1.5"
+  },
+  {
+    "name": "Drift",
+    "brand": "Streamline",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Drive",
+    "brand": "Discraft",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Drone",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "3",
+    "turn": "1",
+    "fade": "4"
+  },
+  {
+    "name": "Drop",
+    "brand": "Discmania",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Dune",
+    "brand": "Trash Panda",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Dynasty",
+    "brand": "Infinite Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "EMac Judge",
+    "brand": "Dynamic Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Eagle",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Echo",
+    "brand": "Streamline",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "1"
+  },
+  {
+    "name": "Element",
+    "brand": "Gateway",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Emperor",
+    "brand": "Infinite Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2.5"
+  },
+  {
+    "name": "Empire",
+    "brand": "Prodiscus",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Enemy",
+    "brand": "Legacy",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Energy",
+    "brand": "MVP",
+    "speed": "13",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Enforcer",
+    "brand": "Dynamic Discs",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0.5",
+    "fade": "4"
+  },
+  {
+    "name": "Enigma",
+    "brand": "Discmania",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Entropy",
+    "brand": "MVP",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Envy",
+    "brand": "Axiom Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Era",
+    "brand": "Finish Line",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1.5"
+  },
+  {
+    "name": "Escape",
+    "brand": "Dynamic Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Essence",
+    "brand": "Discmania",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Ether",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Evader",
+    "brand": "Dynamic Discs",
+    "speed": "7",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Evidence",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Excite",
+    "brand": "Axiom Discs",
+    "speed": "14.5",
+    "glide": "5.5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Exodus",
+    "brand": "Infinite Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Expanse",
+    "brand": "Thought Space Athletics",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Explorer",
+    "brand": "Latitude 64",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "F Model OS",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "5",
+    "turn": "2",
+    "fade": "4"
+  },
+  {
+    "name": "F Model S",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "5",
+    "turn": "1",
+    "fade": "3"
+  },
+  {
+    "name": "F Model US",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "F1",
+    "brand": "Prodigy",
+    "speed": "8",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "F2",
+    "brand": "Prodigy",
+    "speed": "8",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "F3",
+    "brand": "Prodigy",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "F5",
+    "brand": "Prodigy",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "F7",
+    "brand": "Prodigy",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "F9",
+    "brand": "Prodigy",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "0.5"
+  },
+  {
+    "name": "FD",
+    "brand": "Discmania",
+    "speed": "7",
+    "glide": "6",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "FD-8 Stork",
+    "brand": "Disctroyer",
+    "speed": "8",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "FD1",
+    "brand": "Discmania",
+    "speed": "7",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "FD2 (OOP)",
+    "brand": "Discmania",
+    "speed": "7",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "FD3",
+    "brand": "Discmania",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "FL",
+    "brand": "Innova",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "FX-2",
+    "brand": "Prodigy",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "FX-3",
+    "brand": "Prodigy",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "FX-4",
+    "brand": "Prodigy",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Fairway Disc",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Faith",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Falchion (OOP)",
+    "brand": "Latitude 64",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Falcon",
+    "brand": "Millennium",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Falk",
+    "brand": "Kastaplast",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Fasti",
+    "brand": "Prodiscus",
+    "speed": "12",
+    "glide": "4",
+    "turn": "-3",
+    "fade": "4"
+  },
+  {
+    "name": "Feedback",
+    "brand": "Prodigy",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Felon",
+    "brand": "Dynamic Discs",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0.5",
+    "fade": "4"
+  },
+  {
+    "name": "Fenrir",
+    "brand": "Viking",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Fierce",
+    "brand": "Discraft",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Fighter",
+    "brand": "Legacy",
+    "speed": "10",
+    "glide": "3",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "Fireball",
+    "brand": "Axiom Discs",
+    "speed": "9",
+    "glide": "3.5",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Firebird",
+    "brand": "Innova",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Firefly",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Firestorm",
+    "brand": "Innova",
+    "speed": "14",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Flare",
+    "brand": "Streamline",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Flash",
+    "brand": "Discraft",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "3"
+  },
+  {
+    "name": "Flick",
+    "brand": "Discraft",
+    "speed": "12",
+    "glide": "3",
+    "turn": "1",
+    "fade": "5"
+  },
+  {
+    "name": "Flip",
+    "brand": "Hooligan Discs",
+    "speed": "5",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Flipperi",
+    "brand": "Prodiscus",
+    "speed": "9",
+    "glide": "3",
+    "turn": "-3",
+    "fade": "0"
+  },
+  {
+    "name": "Flow",
+    "brand": "Latitude 64",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Focus",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "2",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Force",
+    "brand": "Discraft",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Fortress",
+    "brand": "Westside Discs",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Freetail",
+    "brand": "Mint Discs",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Frio",
+    "brand": "Lone Star Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Fu",
+    "brand": "Yikun",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Fudge",
+    "brand": "Clash Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Fugitive",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "1.5"
+  },
+  {
+    "name": "Fugitive (Supreme)",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Function",
+    "brand": "Discmania",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Fury",
+    "brand": "Latitude 64",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Fuse",
+    "brand": "Latitude 64",
+    "speed": "5",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "G-One",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Galleon",
+    "brand": "Infinite Discs",
+    "speed": "6",
+    "glide": "3",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "Gatekeeper",
+    "brand": "Westside Discs",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Gator",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Gator3",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Gauge",
+    "brand": "Legacy",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Gauntlet",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Gazelle",
+    "brand": "Innova",
+    "speed": "6",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Gecko",
+    "brand": "Elevation Disc Golf",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "General",
+    "brand": "Dynamic Discs",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Genius",
+    "brand": "Discmania",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Getaway",
+    "brand": "Dynamic Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Ghost",
+    "brand": "Legacy",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Giant",
+    "brand": "Westside Discs",
+    "speed": "13",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Ginger",
+    "brand": "Clash Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Gladiator",
+    "brand": "Latitude 64",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Glide",
+    "brand": "Discraft",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Glitch",
+    "brand": "MVP",
+    "speed": "1",
+    "glide": "7",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Glory",
+    "brand": "Latitude 64",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Glyph",
+    "brand": "Infinite Discs",
+    "speed": "1",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Gnome",
+    "brand": "Sacred Discs",
+    "speed": "2",
+    "glide": "2",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Goat",
+    "brand": "Mint Discs",
+    "speed": "12",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Goat (Eternal)",
+    "brand": "Mint Discs",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Golem",
+    "brand": "Other",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Gorgon",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Gorgon (GStar)",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Gote",
+    "brand": "Kastaplast",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Gou",
+    "brand": "Yikun",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-3.5",
+    "fade": "1"
+  },
+  {
+    "name": "Grace",
+    "brand": "Latitude 64",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Grackle",
+    "brand": "Mint Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Great White",
+    "brand": "Wild Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Grizzly",
+    "brand": "Daredevil Discs",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Groove",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Growler",
+    "brand": "Lone Star Discs",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Grym (OOP)",
+    "brand": "Kastaplast",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Grym X (OOP)",
+    "brand": "Kastaplast",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Guadalupe",
+    "brand": "Lone Star Discs",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Guard",
+    "brand": "Dynamic Discs",
+    "speed": "2",
+    "glide": "5",
+    "turn": "0",
+    "fade": "0.5"
+  },
+  {
+    "name": "Guava",
+    "brand": "Clash Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Gui",
+    "brand": "Yikun",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Guld",
+    "brand": "Kastaplast",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Gumbputt",
+    "brand": "DGA",
+    "speed": "2",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "H1 (V2)",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "H2 (V2)",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "H3 (V2)",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "H4 (V2)",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "H5",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "H7",
+    "brand": "Prodigy",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Hades",
+    "brand": "Discraft",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Halo",
+    "brand": "Latitude 64",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Hammer",
+    "brand": "Yikun",
+    "speed": "2",
+    "glide": "2.5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Harp",
+    "brand": "Westside Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Harpoon",
+    "brand": "Lone Star Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Harrier",
+    "brand": "Lone Star Discs",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Hatchet",
+    "brand": "Westside Discs",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Havoc",
+    "brand": "Latitude 64",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Hawg",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "1",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Hawk",
+    "brand": "Discraft",
+    "speed": "4",
+    "glide": "3",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Hawkeye",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Heat",
+    "brand": "Discraft",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Helio Vela",
+    "brand": "Millennium",
+    "speed": "7",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Hellbender",
+    "brand": "Daredevil Discs",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Hellbender (Razorback)",
+    "brand": "Daredevil Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Hellfire",
+    "brand": "DGA",
+    "speed": "10",
+    "glide": "3",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "Hex",
+    "brand": "Axiom Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Honor",
+    "brand": "Latitude 64",
+    "speed": "9",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Hope (Royal Proto)",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Hornet",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Horny Toad",
+    "brand": "Lone Star Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Houdini",
+    "brand": "Gateway",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Houston",
+    "brand": "Lone Star Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Hu",
+    "brand": "Yikun",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Huia",
+    "brand": "RPM",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Hummingbird",
+    "brand": "Wild Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Hunter",
+    "brand": "Legacy",
+    "speed": "2",
+    "glide": "3.5",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Hurricane",
+    "brand": "DGA",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Hybrid",
+    "brand": "Gateway",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Hydra",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Hydrogen",
+    "brand": "Løft Discs",
+    "speed": "1",
+    "glide": "2",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Hyena",
+    "brand": "Wild Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Hypercane",
+    "brand": "DGA",
+    "speed": "13",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "I-One",
+    "brand": "Other",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "IT",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Ibex",
+    "brand": "Vibram",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Idog",
+    "brand": "Kastaplast",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Illusion",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2.5"
+  },
+  {
+    "name": "Impact",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Impulse",
+    "brand": "MVP",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Inca",
+    "brand": "Infinite Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Inertia",
+    "brand": "MVP",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Inner Core",
+    "brand": "Trash Panda",
+    "speed": "2",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "0"
+  },
+  {
+    "name": "Insanity",
+    "brand": "Axiom Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1.5"
+  },
+  {
+    "name": "Instinct",
+    "brand": "Discmania",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Interceptor",
+    "brand": "Elevation Disc Golf",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Interval",
+    "brand": "Finish Line",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Invader",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Invictus",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Ion",
+    "brand": "MVP",
+    "speed": "2.5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1.5"
+  },
+  {
+    "name": "Iridium",
+    "brand": "Other",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "JK Aviar",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "JLS",
+    "brand": "Millennium",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Jack Rabbit",
+    "brand": "Lone Star Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Jackalope",
+    "brand": "Mint Discs",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Jade",
+    "brand": "Latitude 64",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Jarn",
+    "brand": "Kastaplast",
+    "speed": "4.5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Jay",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Jet",
+    "brand": "Streamline",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Jiao",
+    "brand": "Yikun",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1.5"
+  },
+  {
+    "name": "Jokeri",
+    "brand": "Prodiscus",
+    "speed": "3",
+    "glide": "3",
+    "turn": "1",
+    "fade": "2"
+  },
+  {
+    "name": "JokeriX",
+    "brand": "Prodiscus",
+    "speed": "3",
+    "glide": "3",
+    "turn": "1",
+    "fade": "2"
+  },
+  {
+    "name": "Journey",
+    "brand": "Gateway",
+    "speed": "11.5",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Judge",
+    "brand": "Dynamic Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Juggernaut",
+    "brand": "Innova",
+    "speed": "12",
+    "glide": "4",
+    "turn": "1",
+    "fade": "4"
+  },
+  {
+    "name": "Jun",
+    "brand": "Yikun",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Jury",
+    "brand": "Dynamic Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Justice",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "1",
+    "turn": "0.5",
+    "fade": "4"
+  },
+  {
+    "name": "KC Aviar",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "KGB",
+    "brand": "Other",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Kahu",
+    "brand": "RPM",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Kahu OS",
+    "brand": "RPM",
+    "speed": "13",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Kahu XG",
+    "brand": "RPM",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2.5",
+    "fade": "2"
+  },
+  {
+    "name": "Kang",
+    "brand": "Yikun",
+    "speed": "3",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Katana",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "3"
+  },
+  {
+    "name": "Kaxe (Old - OOP)",
+    "brand": "Kastaplast",
+    "speed": "6",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Kaxe (Retooled)",
+    "brand": "Kastaplast",
+    "speed": "6",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Kaxe Z (OOP)",
+    "brand": "Kastaplast",
+    "speed": "6",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Kea",
+    "brand": "RPM",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Keystone",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Khan",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Khonsu",
+    "brand": "Infinite Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "0"
+  },
+  {
+    "name": "King",
+    "brand": "Westside Discs",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "3"
+  },
+  {
+    "name": "Kiwi",
+    "brand": "RPM",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Knife",
+    "brand": "Viking",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Knight",
+    "brand": "Latitude 64",
+    "speed": "14",
+    "glide": "4",
+    "turn": "-1.5",
+    "fade": "3"
+  },
+  {
+    "name": "Koi",
+    "brand": "Elevation Disc Golf",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Kon Tiki",
+    "brand": "Infinite Discs",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "0"
+  },
+  {
+    "name": "Kotare",
+    "brand": "RPM",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Kotuku",
+    "brand": "RPM",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Krait",
+    "brand": "Innova",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Kraken",
+    "brand": "Other",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Kratos",
+    "brand": "Discraft",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Krut",
+    "brand": "Kastaplast",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Kui",
+    "brand": "Yikun",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Lace",
+    "brand": "Vibram",
+    "speed": "14",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Lariat",
+    "brand": "Lone Star Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Laseri",
+    "brand": "Prodiscus",
+    "speed": "10",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Lasso",
+    "brand": "Mint Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Launch",
+    "brand": "Vibram",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Lawin",
+    "brand": "Other",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Legenda",
+    "brand": "Prodiscus",
+    "speed": "13",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "4"
+  },
+  {
+    "name": "Leopard",
+    "brand": "Innova",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Leopard3",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Leviathan",
+    "brand": "Other",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-4",
+    "fade": "0"
+  },
+  {
+    "name": "Lift",
+    "brand": "Streamline",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1.5"
+  },
+  {
+    "name": "Ling",
+    "brand": "Yikun",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Link",
+    "brand": "Discmania",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Lion",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Lobster",
+    "brand": "Mint Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Locust",
+    "brand": "Above Ground Level",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Logic",
+    "brand": "Discmania",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Lone Wolf",
+    "brand": "Lone Star Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Long",
+    "brand": "Yikun",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Longbowman",
+    "brand": "Westside Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Longhorn",
+    "brand": "Mint Discs",
+    "speed": "11",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2.5"
+  },
+  {
+    "name": "Lots",
+    "brand": "Kastaplast",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Lotus",
+    "brand": "Clash Discs",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Love",
+    "brand": "Jester Disc Golf",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1.5"
+  },
+  {
+    "name": "Love (Touch)",
+    "brand": "Jester Disc Golf",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Lu",
+    "brand": "Yikun",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Lucky",
+    "brand": "Crosslap",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Luna",
+    "brand": "Discraft",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "M Model S",
+    "brand": "Prodigy",
+    "speed": "6",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "M Model US",
+    "brand": "Prodigy",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "M1",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "M2",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "M3",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "M4",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "MD",
+    "brand": "Discmania",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "MD1",
+    "brand": "Discmania",
+    "speed": "5",
+    "glide": "6",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "MD2 (OOP)",
+    "brand": "Discmania",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "MD3",
+    "brand": "Discmania",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "MD4",
+    "brand": "Discmania",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "MD5",
+    "brand": "Discmania",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "MR-5 Skylark",
+    "brand": "Disctroyer",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "MX-1",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "MX-2",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "MX-3",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Macana",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Mace",
+    "brand": "Latitude 64",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Machete",
+    "brand": "Discraft",
+    "speed": "11",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Mad Cat",
+    "brand": "Lone Star Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Madrone",
+    "brand": "Above Ground Level",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Maestro",
+    "brand": "Discmania",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Magic",
+    "brand": "Gateway",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Magician",
+    "brand": "Discmania",
+    "speed": "6",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Magnet",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Magnolia",
+    "brand": "Above Ground Level",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Maiden",
+    "brand": "Westside Discs",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Majesty",
+    "brand": "Discmania",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Mako",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Mako3",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Malm",
+    "brand": "Kastaplast",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Malta",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "4",
+    "turn": "1",
+    "fade": "3"
+  },
+  {
+    "name": "Mamba",
+    "brand": "Innova",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-5",
+    "fade": "1"
+  },
+  {
+    "name": "Mammoth",
+    "brand": "Daredevil Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "5"
+  },
+  {
+    "name": "Mana",
+    "brand": "Thought Space Athletics",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Mango",
+    "brand": "Clash Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Manta",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Mantis",
+    "brand": "Discraft",
+    "speed": "8",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Mantra",
+    "brand": "Thought Space Athletics",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Manzanita",
+    "brand": "Above Ground Level",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Marlin",
+    "brand": "Neptune Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Mars Rover",
+    "brand": "Millennium",
+    "speed": "5",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Marshal",
+    "brand": "Dynamic Discs",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Marvel",
+    "brand": "Other",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Matrix",
+    "brand": "MVP",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Maul",
+    "brand": "Latitude 64",
+    "speed": "7",
+    "glide": "7",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Maverick",
+    "brand": "Dynamic Discs",
+    "speed": "7",
+    "glide": "4",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Max",
+    "brand": "Innova",
+    "speed": "11",
+    "glide": "3",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "Maya",
+    "brand": "Infinite Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Mayhem",
+    "brand": "Axiom Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Mentor",
+    "brand": "Discmania",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Mercy",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Merlin",
+    "brand": "Daredevil Discs",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "4"
+  },
+  {
+    "name": "Mermaid",
+    "brand": "Discmania",
+    "speed": "7",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Meteor",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Meteor Hammer",
+    "brand": "Yikun",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Method",
+    "brand": "Discmania",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Mid-Disc3",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Midari",
+    "brand": "Prodiscus",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Middy",
+    "brand": "Lone Star Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Millet",
+    "brand": "Clash Discs",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Minotaur",
+    "brand": "Other",
+    "speed": "8",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Mint",
+    "brand": "Clash Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Mirage",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-3",
+    "fade": "0"
+  },
+  {
+    "name": "Missilen (OOP)",
+    "brand": "Latitude 64",
+    "speed": "14",
+    "glide": "3",
+    "turn": "0.5",
+    "fade": "4.5"
+  },
+  {
+    "name": "Moab",
+    "brand": "Millennium",
+    "speed": "6",
+    "glide": "4",
+    "turn": "1",
+    "fade": "5"
+  },
+  {
+    "name": "Mobius",
+    "brand": "EV-7",
+    "speed": "2",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Mockingbird",
+    "brand": "Lone Star Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Monarch",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Mongoose",
+    "brand": "Legacy",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Moose",
+    "brand": "Daredevil Discs",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Morningstar",
+    "brand": "Gateway",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Mortar",
+    "brand": "Millennium",
+    "speed": "5",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Motion",
+    "brand": "MVP",
+    "speed": "9",
+    "glide": "3.5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Muse",
+    "brand": "Thought Space Athletics",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Musket",
+    "brand": "Latitude 64",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Mustang",
+    "brand": "Mint Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Mutant",
+    "brand": "Discmania",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Mystere",
+    "brand": "Innova",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Mystic",
+    "brand": "Gateway",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "0"
+  },
+  {
+    "name": "Myth",
+    "brand": "Infinite Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Narwhal",
+    "brand": "Other",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Nautilus",
+    "brand": "Neptune Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Nebula",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Nemesis",
+    "brand": "Legacy",
+    "speed": "10",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "2"
+  },
+  {
+    "name": "Neon",
+    "brand": "Løft Discs",
+    "speed": "3",
+    "glide": "1",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Nice!",
+    "brand": "Other",
+    "speed": "8",
+    "glide": "7",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Nightjar",
+    "brand": "Disctroyer",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2.5"
+  },
+  {
+    "name": "Nimbus",
+    "brand": "Elevation Disc Golf",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1.5"
+  },
+  {
+    "name": "Nimitz",
+    "brand": "Lone Star Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Ninja",
+    "brand": "Gateway",
+    "speed": "10",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Nitro",
+    "brand": "MVP",
+    "speed": "13",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Nomad",
+    "brand": "MVP",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Nord",
+    "brand": "Kastaplast",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Northman",
+    "brand": "Westside Discs",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Notch",
+    "brand": "Vibram",
+    "speed": "7",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4.5"
+  },
+  {
+    "name": "Notion",
+    "brand": "Discmania",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Nova",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Nuance",
+    "brand": "Thought Space Athletics",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Nuke",
+    "brand": "Discraft",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Nuke OS",
+    "brand": "Discraft",
+    "speed": "13",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Nuke SS",
+    "brand": "Discraft",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "3"
+  },
+  {
+    "name": "O-Lace",
+    "brand": "Vibram",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "OG Binx",
+    "brand": "Elevation Disc Golf",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Obex",
+    "brand": "Vibram",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Octane",
+    "brand": "MVP",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Odin",
+    "brand": "Viking",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Odyssey",
+    "brand": "Gateway",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Ogopogo",
+    "brand": "Daredevil Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "5"
+  },
+  {
+    "name": "Ohm",
+    "brand": "MVP",
+    "speed": "2",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Omega",
+    "brand": "Millennium",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Omega Big Bead",
+    "brand": "Millennium",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Omega4",
+    "brand": "Millennium",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Omen",
+    "brand": "Thought Space Athletics",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Onyx",
+    "brand": "Vibram",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Openwater",
+    "brand": "Crosslap",
+    "speed": "12",
+    "glide": "4",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Oracle",
+    "brand": "Sacred Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Orbital",
+    "brand": "MVP",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-4.5",
+    "fade": "1"
+  },
+  {
+    "name": "Orc",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Orca",
+    "brand": "Wild Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Origin",
+    "brand": "Discmania",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Origo",
+    "brand": "Prodiscus",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Orion LF",
+    "brand": "Millennium",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Orion LS",
+    "brand": "Millennium",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Osprey",
+    "brand": "AquaFlight",
+    "speed": "12",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Outlaw",
+    "brand": "Legacy",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Owl",
+    "brand": "Stokely Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Ozone",
+    "brand": "Trash Panda",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "P Model OS",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "P Model S",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "P Model US",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "P1 (New)",
+    "brand": "Discmania",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "P1x",
+    "brand": "Discmania",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "P2 (new)",
+    "brand": "Discmania",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "P2X",
+    "brand": "Discmania",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "P3 (OOP)",
+    "brand": "Discmania",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "P3X",
+    "brand": "Discmania",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "P4",
+    "brand": "Discmania",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "PA-3 Sparrow",
+    "brand": "Disctroyer",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "PA1",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "PA2",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "PA3",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "PA4",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "PA5",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "0.5"
+  },
+  {
+    "name": "PD",
+    "brand": "Discmania",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "PD2",
+    "brand": "Discmania",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "PD3 (OOP)",
+    "brand": "Discmania",
+    "speed": "11",
+    "glide": "3",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "PDx (OOP)",
+    "brand": "Discmania",
+    "speed": "11",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "PX-3",
+    "brand": "Prodigy",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Pace",
+    "brand": "Finish Line",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1.5"
+  },
+  {
+    "name": "Panic",
+    "brand": "Axiom Discs",
+    "speed": "13",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Panther",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Parachute",
+    "brand": "Streamline",
+    "speed": "1",
+    "glide": "7",
+    "turn": "0",
+    "fade": "0.5"
+  },
+  {
+    "name": "Paradigm",
+    "brand": "Discmania",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Paradox",
+    "brand": "Axiom Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-4",
+    "fade": "0"
+  },
+  {
+    "name": "Passion",
+    "brand": "Discraft",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Pathfinder",
+    "brand": "Thought Space Athletics",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Patriot",
+    "brand": "Legacy",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Patrol",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Peace Frog",
+    "brand": "AquaFlight",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Peace Train",
+    "brand": "Jester Disc Golf",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Peach",
+    "brand": "Clash Discs",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Peak",
+    "brand": "Latitude 64",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Pearl",
+    "brand": "Latitude 64",
+    "speed": "4",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "0"
+  },
+  {
+    "name": "Pekapeka",
+    "brand": "RPM",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Pelican",
+    "brand": "AquaFlight",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Penny Putter (Premium)",
+    "brand": "Lone Star Discs",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Penny Putter (Victor)",
+    "brand": "Lone Star Discs",
+    "speed": "3",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Penrose",
+    "brand": "EV-7",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Pepper",
+    "brand": "Clash Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Peppermint",
+    "brand": "Clash Discs",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Persona",
+    "brand": "Thought Space Athletics",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Pharaoh",
+    "brand": "Infinite Discs",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Phase",
+    "brand": "MVP",
+    "speed": "11",
+    "glide": "3.5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Phenom",
+    "brand": "Legacy",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Phoenix",
+    "brand": "Mint Discs",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Photon",
+    "brand": "MVP",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2.5"
+  },
+  {
+    "name": "Pig",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "1",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Pilot",
+    "brand": "Streamline",
+    "speed": "2",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Pine",
+    "brand": "Westside Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Pioneer",
+    "brand": "Latitude 64",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Pipeline",
+    "brand": "DGA",
+    "speed": "8",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Pirate",
+    "brand": "Latitude 64",
+    "speed": "5",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Pitch",
+    "brand": "Axiom Discs",
+    "speed": "1",
+    "glide": "7",
+    "turn": "-0.5",
+    "fade": "0"
+  },
+  {
+    "name": "Piwakawaka",
+    "brand": "RPM",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Pixel",
+    "brand": "Axiom Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "0.5"
+  },
+  {
+    "name": "Pneuma",
+    "brand": "Thought Space Athletics",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Polar Bear",
+    "brand": "Daredevil Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Polaris LF (OOP)",
+    "brand": "Millennium",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Polaris LS",
+    "brand": "Millennium",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Polecat",
+    "brand": "Innova",
+    "speed": "1",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Ponderosa",
+    "brand": "Above Ground Level",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Popcorn",
+    "brand": "Clash Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Power Disc",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Power Disc2",
+    "brand": "Innova",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Praxis",
+    "brand": "Thought Space Athletics",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Predator",
+    "brand": "Discraft",
+    "speed": "9",
+    "glide": "4",
+    "turn": "1",
+    "fade": "4"
+  },
+  {
+    "name": "Prince",
+    "brand": "Westside Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Profit",
+    "brand": "Mint Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Prophecy",
+    "brand": "Gateway",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Prowler",
+    "brand": "Legacy",
+    "speed": "2",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Proxy",
+    "brand": "Axiom Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "0.5"
+  },
+  {
+    "name": "Psychic",
+    "brand": "Elevation Disc Golf",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Pulse",
+    "brand": "Discraft",
+    "speed": "11",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Punisher",
+    "brand": "Discraft",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Pure",
+    "brand": "Latitude 64",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Pure OG",
+    "brand": "Other",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Pursuit",
+    "brand": "Legacy",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Putt'r",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Pyro",
+    "brand": "Axiom Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Python",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Qi",
+    "brand": "Yikun",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Quake",
+    "brand": "DGA",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Quasar",
+    "brand": "Millennium",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Queen",
+    "brand": "Westside Discs",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "RA",
+    "brand": "Infinite Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "RESPECTi",
+    "brand": "Prodiscus",
+    "speed": "7",
+    "glide": "2",
+    "turn": "1",
+    "fade": "2"
+  },
+  {
+    "name": "Racer",
+    "brand": "Innova",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Radar",
+    "brand": "Storm",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "0.5"
+  },
+  {
+    "name": "Ragnarok",
+    "brand": "Viking",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Raider",
+    "brand": "Dynamic Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Rainmaker",
+    "brand": "Discmania",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0.5"
+  },
+  {
+    "name": "Raketen (OOP)",
+    "brand": "Latitude 64",
+    "speed": "15",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "3"
+  },
+  {
+    "name": "Rally",
+    "brand": "Finish Line",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Ram",
+    "brand": "Innova",
+    "speed": "6",
+    "glide": "4",
+    "turn": "1",
+    "fade": "4"
+  },
+  {
+    "name": "Rampage",
+    "brand": "Legacy",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "4"
+  },
+  {
+    "name": "Range",
+    "brand": "Streamline",
+    "speed": "2",
+    "glide": "1",
+    "turn": "-0.5",
+    "fade": "0.5"
+  },
+  {
+    "name": "Raptor",
+    "brand": "Discraft",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Rask",
+    "brand": "Kastaplast",
+    "speed": "14",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Rat",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Rattler",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "2",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Raze",
+    "brand": "Infinite Discs",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Razeri",
+    "brand": "Prodiscus",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Reach",
+    "brand": "Birdie",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Reactor",
+    "brand": "MVP",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "1.5"
+  },
+  {
+    "name": "Realm",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Reaper",
+    "brand": "Discraft",
+    "speed": "8",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Rebel",
+    "brand": "Legacy",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Recluse",
+    "brand": "Legacy",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Recoil",
+    "brand": "Latitude 64",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Recon",
+    "brand": "Legacy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Redwood",
+    "brand": "Above Ground Level",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Reef",
+    "brand": "DGA",
+    "speed": "2",
+    "glide": "2",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Reko",
+    "brand": "Kastaplast",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Reko X",
+    "brand": "Kastaplast",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Relativity",
+    "brand": "MVP",
+    "speed": "14.5",
+    "glide": "5.5",
+    "turn": "-3",
+    "fade": "1.5"
+  },
+  {
+    "name": "Relay",
+    "brand": "MVP",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Renegade",
+    "brand": "Dynamic Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2.5"
+  },
+  {
+    "name": "Resistor",
+    "brand": "MVP",
+    "speed": "6.5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Reverb",
+    "brand": "Prodigy",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Rhyno",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "1",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Rhythm",
+    "brand": "Axiom Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Ridge",
+    "brand": "Vibram",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Rift",
+    "brand": "DGA",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1.5"
+  },
+  {
+    "name": "Ringer",
+    "brand": "Discraft",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Ringer GT",
+    "brand": "Discraft",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Rio Grande",
+    "brand": "Lone Star Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Riptide",
+    "brand": "DGA",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Rise",
+    "brand": "Birdie",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Rival",
+    "brand": "Legacy",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Rive",
+    "brand": "Latitude 64",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "River",
+    "brand": "Latitude 64",
+    "speed": "7",
+    "glide": "7",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "River Pro (OOP)",
+    "brand": "Latitude 64",
+    "speed": "6",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Roach",
+    "brand": "Discraft",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Roadrunner",
+    "brand": "Innova",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Roc",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Roc X3",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Roc3",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Rockstar",
+    "brand": "Discmania",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Rogue",
+    "brand": "DGA",
+    "speed": "11",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Rollo",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Roman",
+    "brand": "Infinite Discs",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Rong",
+    "brand": "Yikun",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Ruby",
+    "brand": "Latitude 64",
+    "speed": "3",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Ruin",
+    "brand": "Infinite Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Rune",
+    "brand": "Viking",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Runway",
+    "brand": "Streamline",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Ruru",
+    "brand": "RPM",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Sabertooth",
+    "brand": "Daredevil Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "Sabot",
+    "brand": "Millennium",
+    "speed": "11",
+    "glide": "4",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "Sabre",
+    "brand": "Gateway",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Sage",
+    "brand": "Clash Discs",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Sail",
+    "brand": "DGA",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-5",
+    "fade": "1"
+  },
+  {
+    "name": "Saint",
+    "brand": "Latitude 64",
+    "speed": "9",
+    "glide": "7",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Saint Pro",
+    "brand": "Latitude 64",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Salamander",
+    "brand": "Mint Discs",
+    "speed": "6",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Salt",
+    "brand": "Clash Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Sampo",
+    "brand": "Westside Discs",
+    "speed": "10",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Samurai",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Sapphire",
+    "brand": "Latitude 64",
+    "speed": "10",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1.5"
+  },
+  {
+    "name": "Sarek",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1.5"
+  },
+  {
+    "name": "Sasquatch",
+    "brand": "Daredevil Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-5",
+    "fade": "1"
+  },
+  {
+    "name": "Savant",
+    "brand": "Innova",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Savior",
+    "brand": "Latitude 64",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Scale",
+    "brand": "Other",
+    "speed": "2",
+    "glide": "1",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Scarab",
+    "brand": "Infinite Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Scepter",
+    "brand": "Infinite Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Scorch",
+    "brand": "Discraft",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Scorpius",
+    "brand": "Millennium",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Screech",
+    "brand": "Elevation Disc Golf",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Scythe",
+    "brand": "Latitude 64",
+    "speed": "12",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Sea Otter",
+    "brand": "Wild Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Sector",
+    "brand": "Finish Line",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Seer",
+    "brand": "Westside Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Seguin",
+    "brand": "Lone Star Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Sensei",
+    "brand": "Discmania",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Sentinel",
+    "brand": "Millennium",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Sergeant",
+    "brand": "Dynamic Discs",
+    "speed": "11",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Serpent",
+    "brand": "Other",
+    "speed": "2",
+    "glide": "2",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Servo",
+    "brand": "MVP",
+    "speed": "6.5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Shadowfax",
+    "brand": "Prodigy",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2.5"
+  },
+  {
+    "name": "Shadowplay",
+    "brand": "Crosslap",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-2",
+    "fade": "0.5"
+  },
+  {
+    "name": "Shaman",
+    "brand": "Gateway",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Shark",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Shark3",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Sheriff",
+    "brand": "Dynamic Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Shield",
+    "brand": "Westside Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Shift",
+    "brand": "Streamline",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Shockwave",
+    "brand": "DGA",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Shogun",
+    "brand": "Discmania",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Shryke",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Shu",
+    "brand": "Yikun",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Sidewinder",
+    "brand": "Innova",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Signal",
+    "brand": "MVP",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Silicon",
+    "brand": "Løft Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Sinus",
+    "brand": "Latitude 64",
+    "speed": "2",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Skeeter",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Skyway",
+    "brand": "Climo Disc Golf",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Slab",
+    "brand": "Infinite Discs",
+    "speed": "12",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Slaidi",
+    "brand": "Prodiscus",
+    "speed": "11",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Slammer",
+    "brand": "Dynamic Discs",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Slayer",
+    "brand": "Gateway",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Sling",
+    "brand": "Westside Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Sockibomb Felon",
+    "brand": "Dynamic Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0.5",
+    "fade": "4"
+  },
+  {
+    "name": "Sockibomb Slammer",
+    "brand": "Dynamic Discs",
+    "speed": "3",
+    "glide": "1",
+    "turn": "0.5",
+    "fade": "4"
+  },
+  {
+    "name": "Soda",
+    "brand": "Clash Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Sol",
+    "brand": "Discraft",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "0"
+  },
+  {
+    "name": "Solace",
+    "brand": "Vibram",
+    "speed": "13",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Sole",
+    "brand": "Vibram",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Solstice",
+    "brand": "Millennium",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Sonar",
+    "brand": "DGA",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Sonic",
+    "brand": "Innova",
+    "speed": "1",
+    "glide": "2",
+    "turn": "-4",
+    "fade": "0"
+  },
+  {
+    "name": "Sorcerer",
+    "brand": "Westside Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Spark",
+    "brand": "Latitude 64",
+    "speed": "7",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Sparta",
+    "brand": "Prodiscus",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0.5"
+  },
+  {
+    "name": "Spear",
+    "brand": "Gateway",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Speed Demon",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Spell",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Sphinx",
+    "brand": "Infinite Discs",
+    "speed": "9",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Spice",
+    "brand": "Clash Discs",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Spike",
+    "brand": "Latitude 64",
+    "speed": "4",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Spin",
+    "brand": "MVP",
+    "speed": "2.5",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Spirit",
+    "brand": "Gateway",
+    "speed": "12",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Splash",
+    "brand": "Neptune Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Splice",
+    "brand": "Discmania",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Spore",
+    "brand": "Discmania",
+    "speed": "1",
+    "glide": "7",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Spruce",
+    "brand": "Above Ground Level",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Spur",
+    "brand": "Lone Star Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Squall",
+    "brand": "DGA",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Squid",
+    "brand": "Neptune Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Stabilizer",
+    "brand": "Streamline",
+    "speed": "3",
+    "glide": "3.5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Stag",
+    "brand": "Westside Discs",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Stal",
+    "brand": "Kastaplast",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Stalker",
+    "brand": "Discraft",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Starfire",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Starfire L",
+    "brand": "Innova",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Stari",
+    "brand": "Prodiscus",
+    "speed": "4",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Starship",
+    "brand": "Sacred Discs",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Steady",
+    "brand": "DGA",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Steady BL",
+    "brand": "DGA",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Stego",
+    "brand": "Other",
+    "speed": "4",
+    "glide": "0",
+    "turn": "1",
+    "fade": "4"
+  },
+  {
+    "name": "Stig",
+    "brand": "Kastaplast",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Stiletto",
+    "brand": "Latitude 64",
+    "speed": "13",
+    "glide": "3",
+    "turn": "0.5",
+    "fade": "5"
+  },
+  {
+    "name": "Sting",
+    "brand": "Discraft",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Stingray",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Stratus",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "4",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Strike",
+    "brand": "Other",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Striker",
+    "brand": "Latitude 64",
+    "speed": "8",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Strive",
+    "brand": "Latitude 64",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Stud",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Styder",
+    "brand": "Prodigy",
+    "speed": "6",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Summit",
+    "brand": "Vibram",
+    "speed": "2",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Sumo",
+    "brand": "Legacy",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Supra",
+    "brand": "Finish Line",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Supreme EMac Truth",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Supreme Trespass",
+    "brand": "Dynamic Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Surf",
+    "brand": "DGA",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Surge",
+    "brand": "Discraft",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Surge SS",
+    "brand": "Discraft",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Suspect",
+    "brand": "Dynamic Discs",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Svea",
+    "brand": "Kastaplast",
+    "speed": "5",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Swan 1 Reborn",
+    "brand": "Westside Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-2.5",
+    "fade": "0"
+  },
+  {
+    "name": "Swan 2",
+    "brand": "Westside Discs",
+    "speed": "3",
+    "glide": "3",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Swarm",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Swift",
+    "brand": "AquaFlight",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Swift Fox",
+    "brand": "Daredevil Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Sword",
+    "brand": "Westside Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Sycamore",
+    "brand": "Above Ground Level",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Synapse",
+    "brand": "Thought Space Athletics",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "3"
+  },
+  {
+    "name": "TD",
+    "brand": "Discmania",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "TD2 (OOP)",
+    "brand": "Discmania",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "TDx (OOP)",
+    "brand": "Discmania",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "TL",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "TL3",
+    "brand": "Innova",
+    "speed": "8",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Taco",
+    "brand": "Mint Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Tactic",
+    "brand": "Discmania",
+    "speed": "4",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Tailor",
+    "brand": "Discmania",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Takapu",
+    "brand": "RPM",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Talisman",
+    "brand": "Prodiscus",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Talon",
+    "brand": "Discraft",
+    "speed": "8",
+    "glide": "3",
+    "turn": "1",
+    "fade": "3"
+  },
+  {
+    "name": "Tank",
+    "brand": "Millennium",
+    "speed": "2",
+    "glide": "1",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Tantrum",
+    "brand": "Axiom Discs",
+    "speed": "14.5",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "3"
+  },
+  {
+    "name": "Tara iti",
+    "brand": "RPM",
+    "speed": "10",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Tasmanian Devil V2",
+    "brand": "Wild Discs",
+    "speed": "9",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "TeeRex",
+    "brand": "Innova",
+    "speed": "11",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Teebird",
+    "brand": "Innova",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Teebird3",
+    "brand": "Innova",
+    "speed": "8",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Teedevil",
+    "brand": "Innova",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Teleport",
+    "brand": "MVP",
+    "speed": "14.5",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2.5"
+  },
+  {
+    "name": "Telos",
+    "brand": "EV-7",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1.5"
+  },
+  {
+    "name": "Tempest",
+    "brand": "DGA",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Temple",
+    "brand": "Thought Space Athletics",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Tempo",
+    "brand": "Axiom Discs",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Tenacity",
+    "brand": "Axiom Discs",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-2.5",
+    "fade": "2"
+  },
+  {
+    "name": "Tern",
+    "brand": "Innova",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Terra",
+    "brand": "MVP",
+    "speed": "8",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Tesla",
+    "brand": "MVP",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Tex",
+    "brand": "Lone Star Discs",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Texas Ranger",
+    "brand": "Lone Star Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "The Crater",
+    "brand": "Storm",
+    "speed": "3",
+    "glide": "2",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "The Dome",
+    "brand": "Lone Star Discs",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "The Eye",
+    "brand": "Storm",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Thief",
+    "brand": "Dynamic Discs",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Thor",
+    "brand": "Viking",
+    "speed": "14",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Thrasher",
+    "brand": "Discraft",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Thread",
+    "brand": "Hooligan Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Thrill",
+    "brand": "Axiom Discs",
+    "speed": "11",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Thunderbird",
+    "brand": "Innova",
+    "speed": "9",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Timberwolf",
+    "brand": "Daredevil Discs",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Time-Lapse",
+    "brand": "Axiom Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Titan",
+    "brand": "Prodiscus",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Titanic",
+    "brand": "DGA",
+    "speed": "2",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Titanium",
+    "brand": "Løft Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Tiyanak",
+    "brand": "Other",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-5",
+    "fade": "1"
+  },
+  {
+    "name": "Tomahawk",
+    "brand": "Yikun",
+    "speed": "5",
+    "glide": "6",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Tomb",
+    "brand": "Infinite Discs",
+    "speed": "3",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Tombstone",
+    "brand": "Lone Star Discs",
+    "speed": "13",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Toro",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "2",
+    "turn": "1",
+    "fade": "3"
+  },
+  {
+    "name": "Torque",
+    "brand": "Finish Line",
+    "speed": "8",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Torrent",
+    "brand": "DGA",
+    "speed": "14",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Trace",
+    "brand": "Streamline",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Trail",
+    "brand": "MVP",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Trance",
+    "brand": "Axiom Discs",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Tremor",
+    "brand": "DGA",
+    "speed": "6",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Trespass",
+    "brand": "Dynamic Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Trident",
+    "brand": "Latitude 64",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Trinity",
+    "brand": "Lone Star Discs",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Trust",
+    "brand": "Latitude 64",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Truth",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Truth, EMAC",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Tsunami",
+    "brand": "DGA",
+    "speed": "10",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Tui",
+    "brand": "RPM",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Tumbleweed",
+    "brand": "Lone Star Discs",
+    "speed": "10",
+    "glide": "6",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Tursas",
+    "brand": "Westside Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Twin Swords",
+    "brand": "Yikun",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Typhoon",
+    "brand": "DGA",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Tyrant",
+    "brand": "Other",
+    "speed": "7",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "UFO",
+    "brand": "Mint Discs",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Ultra",
+    "brand": "Other",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "UnLace",
+    "brand": "Vibram",
+    "speed": "14",
+    "glide": "6",
+    "turn": "-5",
+    "fade": "1"
+  },
+  {
+    "name": "Undertaker",
+    "brand": "Discraft",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Undertow",
+    "brand": "DGA",
+    "speed": "10",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Underworld",
+    "brand": "Westside Discs",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Uplink",
+    "brand": "Axiom Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "0.5"
+  },
+  {
+    "name": "VP",
+    "brand": "Vibram",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "VRoc",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Valkyrie",
+    "brand": "Innova",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Valley",
+    "brand": "Vibram",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Valor",
+    "brand": "Legacy",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Vamp",
+    "brand": "Vibram",
+    "speed": "7",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Vandal",
+    "brand": "Dynamic Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Vanguard",
+    "brand": "Discmania",
+    "speed": "9",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Vanilla",
+    "brand": "Clash Discs",
+    "speed": "11",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Vanish",
+    "brand": "Axiom Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "Vass",
+    "brand": "Kastaplast",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Vela",
+    "brand": "Millennium",
+    "speed": "7",
+    "glide": "4",
+    "turn": "-1.5",
+    "fade": "2"
+  },
+  {
+    "name": "Vengeance",
+    "brand": "Legacy",
+    "speed": "10",
+    "glide": "6",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Venom (Old Version - OOP)",
+    "brand": "Discraft",
+    "speed": "10",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Venom (Retooled)",
+    "brand": "Discraft",
+    "speed": "13",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Verdict",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3.5"
+  },
+  {
+    "name": "Vibe",
+    "brand": "Hooligan Discs",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "View",
+    "brand": "Yikun",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-3.5",
+    "fade": "1"
+  },
+  {
+    "name": "Vigil",
+    "brand": "Crosslap",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Viking",
+    "brand": "Innova",
+    "speed": "9",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Viper",
+    "brand": "Innova",
+    "speed": "6",
+    "glide": "4",
+    "turn": "1",
+    "fade": "5"
+  },
+  {
+    "name": "Virus",
+    "brand": "Axiom Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-3.5",
+    "fade": "1"
+  },
+  {
+    "name": "Volt",
+    "brand": "MVP",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Voodoo",
+    "brand": "Gateway",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Vortex",
+    "brand": "DGA",
+    "speed": "7",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "Votum",
+    "brand": "Thought Space Athletics",
+    "speed": "7",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Vulcan",
+    "brand": "Innova",
+    "speed": "13",
+    "glide": "5",
+    "turn": "-4",
+    "fade": "2"
+  },
+  {
+    "name": "Vulture",
+    "brand": "Discraft",
+    "speed": "10",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Waco",
+    "brand": "Prodigy",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Wahoo",
+    "brand": "Innova",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Walker",
+    "brand": "Lone Star Discs",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Wall Cloud",
+    "brand": "Storm",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Walrus",
+    "brand": "Daredevil Discs",
+    "speed": "4",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "War Horse",
+    "brand": "Westside Discs",
+    "speed": "13",
+    "glide": "4",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "War Spear",
+    "brand": "Gateway",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Warant",
+    "brand": "Dynamic Discs",
+    "speed": "5",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Warbird",
+    "brand": "Lone Star Discs",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Warden",
+    "brand": "Dynamic Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "0.5"
+  },
+  {
+    "name": "Warlock",
+    "brand": "Gateway",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Warrior (Gateway)",
+    "brand": "Gateway",
+    "speed": "5",
+    "glide": "4",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Warrior (Viking)",
+    "brand": "Viking",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Warship",
+    "brand": "Westside Discs",
+    "speed": "5",
+    "glide": "6",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Wasp",
+    "brand": "Discraft",
+    "speed": "5",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Watt",
+    "brand": "MVP",
+    "speed": "2",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "0.5"
+  },
+  {
+    "name": "Wave",
+    "brand": "MVP",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Weapon",
+    "brand": "Birdie",
+    "speed": "8",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Wedge",
+    "brand": "Innova",
+    "speed": "3.5",
+    "glide": "3",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Wei",
+    "brand": "Yikun",
+    "speed": "10",
+    "glide": "5",
+    "turn": "-2.5",
+    "fade": "2"
+  },
+  {
+    "name": "Whale",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Whippet",
+    "brand": "Innova",
+    "speed": "6",
+    "glide": "3",
+    "turn": "1",
+    "fade": "5"
+  },
+  {
+    "name": "White Widow",
+    "brand": "Other",
+    "speed": "3",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Wild Honey",
+    "brand": "Clash Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Wild Thing",
+    "brand": "Jester Disc Golf",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2.5"
+  },
+  {
+    "name": "Wildcat",
+    "brand": "Discraft",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "3"
+  },
+  {
+    "name": "Wings",
+    "brand": "Yikun",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Witness",
+    "brand": "Dynamic Discs",
+    "speed": "8",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Wizard",
+    "brand": "Gateway",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Wolf",
+    "brand": "Innova",
+    "speed": "4",
+    "glide": "3",
+    "turn": "-4",
+    "fade": "1"
+  },
+  {
+    "name": "Wolverine",
+    "brand": "Daredevil Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "Wombat3",
+    "brand": "Innova",
+    "speed": "5",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Woodchuck",
+    "brand": "Daredevil Discs",
+    "speed": "2",
+    "glide": "2",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "World",
+    "brand": "Westside Discs",
+    "speed": "14",
+    "glide": "4",
+    "turn": "-0.5",
+    "fade": "3"
+  },
+  {
+    "name": "Wraith",
+    "brand": "Innova",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Wrangler",
+    "brand": "Lone Star Discs",
+    "speed": "9",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "Wrath",
+    "brand": "Axiom Discs",
+    "speed": "9",
+    "glide": "4.5",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Wren",
+    "brand": "Stokely Discs",
+    "speed": "3",
+    "glide": "3.5",
+    "turn": "-0.5",
+    "fade": "1"
+  },
+  {
+    "name": "Wyrm",
+    "brand": "Divergent",
+    "speed": "9",
+    "glide": "2",
+    "turn": "0",
+    "fade": "5"
+  },
+  {
+    "name": "X2",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "X3",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-1",
+    "fade": "2"
+  },
+  {
+    "name": "X4",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-2",
+    "fade": "2"
+  },
+  {
+    "name": "X5",
+    "brand": "Prodigy",
+    "speed": "12",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "2"
+  },
+  {
+    "name": "XCaliber",
+    "brand": "Innova",
+    "speed": "12",
+    "glide": "5",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "XD",
+    "brand": "Innova",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "XL",
+    "brand": "Discraft",
+    "speed": "7",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "1"
+  },
+  {
+    "name": "XS",
+    "brand": "Discraft",
+    "speed": "8",
+    "glide": "5",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "XXX",
+    "brand": "Latitude 64",
+    "speed": "7",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Xenon",
+    "brand": "Løft Discs",
+    "speed": "9",
+    "glide": "3",
+    "turn": "0",
+    "fade": "4"
+  },
+  {
+    "name": "Xero",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Xing",
+    "brand": "Yikun",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Xpress",
+    "brand": "Discraft",
+    "speed": "8",
+    "glide": "5",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Xtreme",
+    "brand": "Discraft",
+    "speed": "6",
+    "glide": "3",
+    "turn": "1",
+    "fade": "4"
+  },
+  {
+    "name": "Yan",
+    "brand": "Yikun",
+    "speed": "3",
+    "glide": "6",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Yang",
+    "brand": "Prodigy",
+    "speed": "1",
+    "glide": "2",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Yao",
+    "brand": "Yikun",
+    "speed": "4",
+    "glide": "4",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Yeet",
+    "brand": "Hooligan Discs",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Yellow Rose",
+    "brand": "Lone Star Discs",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Yeti",
+    "brand": "Daredevil Discs",
+    "speed": "13",
+    "glide": "6",
+    "turn": "-3",
+    "fade": "1"
+  },
+  {
+    "name": "Yeti Aviar",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "3",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Yi",
+    "brand": "Yikun",
+    "speed": "3",
+    "glide": "3",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Yin",
+    "brand": "EV-7",
+    "speed": "1",
+    "glide": "4",
+    "turn": "0",
+    "fade": "1"
+  },
+  {
+    "name": "Zeal",
+    "brand": "Other",
+    "speed": "3",
+    "glide": "4",
+    "turn": "-2",
+    "fade": "0"
+  },
+  {
+    "name": "Zenith",
+    "brand": "MVP",
+    "speed": "11",
+    "glide": "5",
+    "turn": "-0.5",
+    "fade": "2"
+  },
+  {
+    "name": "Zephyr",
+    "brand": "Innova",
+    "speed": "2",
+    "glide": "4",
+    "turn": "0",
+    "fade": "0"
+  },
+  {
+    "name": "Zeppelin",
+    "brand": "Discraft",
+    "speed": "3",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "0"
+  },
+  {
+    "name": "Zeus",
+    "brand": "Discraft",
+    "speed": "12",
+    "glide": "5",
+    "turn": "-1",
+    "fade": "3"
+  },
+  {
+    "name": "Zheng",
+    "brand": "Yikun",
+    "speed": "5",
+    "glide": "5",
+    "turn": "0",
+    "fade": "2"
+  },
+  {
+    "name": "Zombee",
+    "brand": "Discraft",
+    "speed": "6",
+    "glide": "4",
+    "turn": "-1",
+    "fade": "1"
+  },
+  {
+    "name": "Zone",
+    "brand": "Discraft",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Zone GT (Banger Top)",
+    "brand": "Discraft",
+    "speed": "4",
+    "glide": "3",
+    "turn": "0",
+    "fade": "3"
+  },
+  {
+    "name": "Zone OS",
+    "brand": "Discraft",
+    "speed": "4",
+    "glide": "2",
+    "turn": "1",
+    "fade": "5"
+  }
+]

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Discle</title>
+  <link rel="stylesheet" href="/stylesheets/styles.css">
+  <link rel="icon" href="/images/disclelogo.png">
+</head>
+
+<body>
+  <div class="header">
+    <img class="logo" src="/images/disclelogo.png" alt="Discle Logo">
+    <h1>Discle</h1>
+  </div>
+
+  <h2><%= "#{@disc_name} (#{@disc_brand})" %></h2>
+
+  <%# <div class="titles">
+    <span>Speed</span>
+    <span>Glide</span>
+    <span>Turn</span>
+    <span>Fade</span>
+  </div> %>
+
+  <div class="input">
+    <form autocomplete="off" action="/guess" method="post">
+      <div class="grid">
+        <div class="guess-row">
+          <input type="text" name="guess[0]" maxlength="2" placeholder="Speed" required autofocus>
+          <input type="text" name="guess[1]" maxlength="2" placeholder="Glide" required>
+          <input type="text" name="guess[2]" maxlength="2" placeholder="Turn" required>
+          <input type="text" name="guess[3]" maxlength="3" placeholder="Fade" required>
+        </div>
+      </div>
+      <button class="submit" type="submit">Guess</button>
+    </form>
+  </div>
+
+  <% if @results %>
+    <div class="results">
+      <% @results.each_with_index do |result, turn_index| %>
+        <div class="result-row">
+          <% result.each do |index, status| %>
+            <div class="number <%= status %>">
+              <%= @guesses[turn_index][index].to_i %>
+            </div>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+  <% end %>
+
+  <% if @speed_hint %>
+    <div class="speed-hint">
+      <i><%= "Hint: The disc is #{@speed_hint} than your last guess." %></i>
+    </div>
+  <% end %>
+
+  <% if @end_message %>
+    <div class="end-message">
+      <h2><%= @end_message %></h2>
+      <a href="/" class="play-again">Play Again</a>
+    </div>
+  <% end %>
+</body>
+</html>
