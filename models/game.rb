@@ -12,7 +12,6 @@ class DiscleGame
     @selected_disc = nil
     @disc = nil
     @flight_numbers = nil
-    # @flight_numbers = [2, 3, 0, 1]
     @guesses = []
     @guess = nil
     @results = []
@@ -28,11 +27,10 @@ class DiscleGame
     # Optional filtering of discs to one brand
     discs = []
     @discs.each do |disc|
-      next unless disc['brand'] == 'Innova' && disc['name'] == 'Toro' 
+      next unless disc['brand'] == 'Innova' 
       discs << disc
     end
     @selected_disc = discs.sample
-    # @flight_numbers = [@selected_disc['speed'], @selected_disc['glide'], @selected_disc['turn'], @selected_disc['fade']].map(&:to_f)
   end
 
   def create_disc
@@ -43,17 +41,12 @@ class DiscleGame
   def analyze_guess(guess)
     greens = []
     yellows = []
-    # binding.irb
     if guess == @flight_numbers
       @result = Result.new([0, 1, 2, 3], [])
     else
       guess.each_with_index do |num, i|
-        # binding.irb
         if num.to_f == @flight_numbers[i]
           greens << i
-        # elsif @flight_numbers.include?(num.to_f)
-        # # elsif num.to_f == 
-        #   yellows << i
         end
       end
       @result = Result.new(greens, yellows)
@@ -88,7 +81,3 @@ class DiscleGame
     end
   end
 end
-
-# game = DiscleGame.new
-# game.setup
-# game.play

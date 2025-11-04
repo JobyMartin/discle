@@ -9,7 +9,7 @@ class DiscFetcher
     @output_file = 'discs.json'
     @discs = nil
   end
-  # Method to fetch disc data
+  
   def fetch_discs
     uri = URI.parse(@api_url)
     response = Net::HTTP.get_response(uri)
@@ -23,7 +23,6 @@ class DiscFetcher
     save_to_json
   end
 
-  # Method to extract relevant data and save to a JSON file
   def save_to_json
     filtered_discs = @discs.map do |disc|
       {

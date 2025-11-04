@@ -8,13 +8,6 @@ RSpec.describe DiscleGame do
       expect(game.result.greens).to eq([0, 1, 2, 3])
       expect(game.result.yellows).to eq([])
     end
-
-    # it "returns greens' and yellows' indexes" do
-    #   game = DiscleGame.new
-    #   game.analyze_guess([2, 3, 1, 0])
-    #   expect(game.result.greens).to eq([0, 1])
-    #   expect(game.result.yellows).to eq([2, 3])
-    # end
   end
 
   describe "#win?" do
@@ -28,15 +21,6 @@ RSpec.describe DiscleGame do
       expect(game.win?([2, 3, 0, 2])).to eq(false)
     end
   end
-  
-  # describe "#turn" do
-  #   it "takes a guess and returns the guess and the result after analyzing" do
-  #     game = DiscleGame.new
-  #     expect(game.turn([2.0, 3.0, 0.0, 1.0])).to eq(
-        
-  #     )
-  #   end
-  # end
 
   describe "#display_final_result" do
     it "takes the guess and returns the final win" do

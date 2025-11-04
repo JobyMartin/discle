@@ -1,6 +1,5 @@
 require 'sinatra'
 require_relative './models/game.rb'
-# require_relative './models/result.rb'
 require "irb"
 
 game = DiscleGame.new
@@ -16,7 +15,6 @@ end
 
 post '/guess' do
   @guess = params[:guess].values.to_a.map(&:to_f)
-  # game.guess = @guess
   @disc_name = game.disc.name
   @disc_brand = game.disc.brand
 
